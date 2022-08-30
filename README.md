@@ -6,7 +6,7 @@ A windows forms application. <br /> <br />.NET 6.0 <br />Visual Studio 2022
 ```bash
 git clone https://github.com/danielorkingit/windows-explorer/
 ```
-Now open the folder in Visual Studio (2022 or recent version).
+Now open the folder in Visual Studio (2022 or recent version). <br />
 Than add the full path of the "icons" folder to the Form1.cs files to the placeholder (the program will throw an error otherwise). <br />
 Next run the Program.cs file by clicking the green play button.
 ### Functions
