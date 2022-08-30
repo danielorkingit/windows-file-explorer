@@ -1,5 +1,5 @@
 # windows-file-explorer
-A windows forms application. <br />.NET 6.0.
+A windows forms application. <br />.NET 6.0 <br />Visual Studio 2022
 
 ## Installation
 ### Install and run the file-explorer
