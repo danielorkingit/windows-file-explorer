@@ -26,8 +26,8 @@ namespace WinFormsApp5
                 if (_imageList == null)
                 {
                     _imageList = new ImageList();
-                    _imageList.Images.Add("folder", Image.FromFile(@"C:\Users\danie\source\repos\WinFormsApp5\WinFormsApp5\icons\folder.ico"));
-                    _imageList.Images.Add("file", Image.FromFile(@"C:\Users\danie\source\repos\WinFormsApp5\WinFormsApp5\icons\file.ico"));
+                    _imageList.Images.Add("folder", Image.FromFile(@"...THE FULL PATH TO THE ICONS FOLDER WinFormsApp5\WinFormsApp5\icons\folder.ico"));
+                    _imageList.Images.Add("file", Image.FromFile(@"...THE FULL PATH TO THE ICONS FOLDER WinFormsApp5\WinFormsApp5\icons\folder.ico"));
                 }
                 return _imageList;
             }
